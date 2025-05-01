@@ -1,4 +1,59 @@
 # React + Vite
+# 🛍️ E-COMMERCE ASSIGNMENT
+
+Welcome to the **E-Commerce React Project**! This is a simple, fully functional e-commerce website built using **React.js**, styled with **CSS Flexbox**, and powered by the **Fake Store API** for product data.
+
+---
+
+## 🚀 Live Demo
+
+> [🔗 View Live Site](#) *(add your deployment link here if available)*
+
+---
+
+## 📦 Features
+
+✅ Modern, responsive UI  
+✅ Product Listing Page  
+✅ Product Detail View  
+✅ Add to Cart & Mini Cart  
+✅ Full Cart Page with Item Management  
+✅ API Integration using [Fake Store API](https://fakestoreapi.com/products)
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech            | Description                          |
+|-----------------|--------------------------------------|
+| ⚛️ React.js     | Frontend Framework                   |
+| 🎨 CSS (Flexbox) | For layout and styling               |
+| 🔗 Fake Store API | Used for product data               |
+| 🌐 HTML & JS    | Standard Web Technologies            |
+
+---
+
+commands to start :
+npm install
+npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
